@@ -14,6 +14,8 @@ public class LoginStepDefinition extends LoginPageObject{
 	public void i_am_a_user_of_facebook_application(){
 	    lpo.openurl();
 	   // throw new PendingException();
+	    //hi
+	    //hi
 	}
 
 	@When("^I enter valid username$")
