@@ -15,7 +15,7 @@ public class LoginStepDefinition extends LoginPageObject{
 	    lpo.openurl();
 	   // throw new PendingException();
 	    //hi
-	    //hi
+	    
 	}
 
 	@When("^I enter valid username$")
